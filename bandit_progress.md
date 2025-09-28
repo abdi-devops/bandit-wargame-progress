@@ -27,3 +27,27 @@ cat ./'--spaces in this filename'
 ```
 **Lesson Learned:** Quotes can be used to escape spaces in filenames. Backslashes may also be used.
 
+## Level 3 → Level 4
+**Goal:** Read a hidden file  
+**Commands Used:**  
+```bash
+ls
+cd inhere
+ls
+ls -a
+cat ...Hiding-From-You
+```
+
+## Level 4 → Level 5
+**Goal:** Find the human readable file
+
+**Commands Used:**
+```bash
+ls
+cd inhere
+ls
+file ./*
+```
+
+## Level 5 → Level 6
+**Goal:**
