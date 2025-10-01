@@ -47,6 +47,7 @@ ls
 cd inhere
 ls
 file ./*
+cat ./-file07
 ```
 
 ## Level 5 → Level 6
