@@ -40,7 +40,6 @@ cat ...Hiding-From-You
 
 ## Level 4 → Level 5
 **Goal:** Find the human readable file
-
 **Commands Used:**
 ```bash
 ls
@@ -51,4 +50,11 @@ cat ./-file07
 ```
 
 ## Level 5 → Level 6
-**Goal:**
+**Goal:** Find the file that has the following properties:
+human-readable
+1033 bytes in size
+not executable
+**Commands Used:**  
+```bash
+```
+**Lesson Learned:** 
